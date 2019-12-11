@@ -1,0 +1,6 @@
+{
+  "FLAIR_PATH": "c:/tools/helpers/bin/",
+  "OBJ_FILE": "obj",
+  "BIN_2_PAT":"pcf.exe",
+  "SIGMAKE_BIN": "sigmake.exe"
+}

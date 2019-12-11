@@ -1,0 +1,8 @@
+{
+  "name": "zlib",
+  "version": "1.2.11",
+  "src": "D:\\CProjects\\zlib-1.2.11",
+  "compiler": "vs2008",
+  "comment": "vs2008_vscode_nmake",
+  "RESULT_DIR": ""
+}
